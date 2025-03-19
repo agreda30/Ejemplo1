@@ -1,1 +1,2 @@
-ABC
+Programación con java 
+orientada a objeto.
